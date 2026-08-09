@@ -1,8 +1,8 @@
-# Liquidity Rotation RRG
+# Liquidity Rotation Graph
 
-A Streamlit app for visualizing Relative Rotation Graphs (RRG) across asset
+A Streamlit app for visualizing Liquidity Rotation Graphs across asset
 classes (stocks, commodities, gold, crypto, dollar, bonds/cash) or classic
-S&P 500 sectors — with the timeframe adjustable on the fly.
+S&P 500 sectors — with adjustable timeframes.
 
 ## Setup
 
